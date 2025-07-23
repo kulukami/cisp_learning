@@ -1,0 +1,1 @@
+{"q": "\u4ee5\u4e0bSQL \u8bed\u53e5\u5efa\u7acb\u7684\u6570\u636e\u5e93\u5bf9\u8c61\u662f\uff1a CREATE VIEW PatientsForDoctors AS SWLWCT Patient\nFROM Patient*\nWHERE doctorlD=123", "A": "\uff1a'\u8868", "B": "\uff1a'\u89c6\u56fe", "C": "\uff1a'\u5b58\u50a8\u8fc7\u7a0b", "D": "\uff1a'\u89e6\u53d1\u5668", "result": "B", "reason": "_"}
