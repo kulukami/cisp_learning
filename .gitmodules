@@ -1,0 +1,9 @@
+[submodule "exam/web/cisp"]
+	path = exam/web/cisp
+	url = git@github.com:hamsecret/CISP.git
+[submodule "exam/pdf/cisp"]
+	path = exam/pdf/cisp
+	url = git@github.com:hackctf55/cisp.git
+[submodule "course/4.2/cisp"]
+	path = course/4.2/cisp
+	url = git@github.com:Double-q1015/cisp.git
